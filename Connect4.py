@@ -119,7 +119,7 @@ while not game_over:
 						game_over = True
 
 
-			# # Ask for Player 2 Input
+			
 			else:				
 				posx = event.pos[0]
 				col = int(math.floor(posx/SQUARESIZE))
